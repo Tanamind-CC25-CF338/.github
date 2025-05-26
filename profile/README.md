@@ -43,6 +43,6 @@ Let’s grow smarter, together. 🌱
 ## 💌 Contact
 
 You can contact us via email with our sales marketing.
-- C007D4KX0614@bangkit.academy
+- MC325D5X0708@student.devacademy.id
 
 Let's make amazing customer experience together! 🙌
