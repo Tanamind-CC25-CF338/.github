@@ -4,38 +4,41 @@
 
 # Tanamind - Created by CC25-CF338 Capstone Project Coding Camp by DBS Foundation 2025
 
-Hello! 👋 Welcome to the FurniScan app showcase! This app can enhance your experience during buying some furniture for your lovely home.
+Hello! 👋 Welcome to Tanamind, a smart farming assistant designed to help you grow plants efficiently using hydroponics — even in small spaces. With built-in machine learning, Tanamind can detect early signs of plant disease from leaf images and give you practical recommendations. Whether you’re a beginner or an experienced grower, Tanamind is here to guide your hydroponic journey.
 
 ## 🛋️ Project Overview
 
-FurniScan is a mobile application that combines machine learning and cloud computing to enhance your offline furniture shopping experience. With FurniScan, you can instantly access detailed product information via your smartphone, eliminating the need to wait for assistance in crowded stores. Enhance your shopping efficiency and satisfaction with our cutting-edge technology.
+Tanamind is a Hydroponic Guide Website designed to help farmers and individuals grow crops efficiently in limited spaces. Powered by Machine Learning, it allows users to upload leaf images for early disease detection and receive treatment recommendations. Tanamind offers step-by-step guidance on building hydroponic systems, a user-friendly interface, and supports smart, sustainable agriculture in Indonesia.
 
 ## 🪑 Why We Build This App
 
-We developed this project to meet customer needs and adapt to evolving retail technology trends. Recognizing the demand for a more efficient shopping experience, we aimed to enhance productivity by replacing manual tasks with advanced technology. Our goal is to provide a superior shopping experience and boost efficiency in our physical store through innovative tech solutions.
+We built Tanamind out of concern for limited farming space in urban areas and the rising interest in home hydroponics. We noticed a lack of accessible digital guides and practical plant disease diagnosis tools. This inspired us to develop an app that combines hydroponic tutorials with machine learning-based disease detection, helping people farm more effectively in small spaces.
 
 ## 🦾 This is Our Team
 
-So, these are the people behind the FurniScan app who give everything for this project.
+So, these are the people behind the Tanamind who give everything for this project.
 
-| Learning Path                         | Bangkit ID    | GitHub Link                | LinkedIn Link                          |
-|------------------------------|---------------|-----------------------|-----------------------------------|
-| Machine Learning        | M007D4KX2221   | [) | [)      |
-| Machine Learning             | M009D4KY1866   | [) | [)      |
-| Machine Learning             | M691D4KY2485   | [) | [)      |
-| Front-End & Back-End      | FC222D5Y1228   | [Muhammad Fauzan](https://github.com/muhammadfauzanis/) | [Muhammad Fauzan](https://www.linkedin.com/in/muhammadfauzanis/)      |
+| Student ID   | Name                               | Learning Path                           | Contact                            |
+| :---         | :----                              | :---                           | :---                               |
+| FC222D5Y1228 | Muhammad Fauzan                     | Front-End dan Back-End Developer               |[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadfauzanis/)                                  |
+| FC325D5X0791 | Aliyah Zahrah       | Front-End dan Back-End Developer               | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/aliyah-zahrah)                                   |
+| FC325D5X0623 | Viona                     | Front-End dan Back-End Developer               | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](#)                    |
+| MC325D5X0708 | Khansa Maritza Ar-Rahmah                        | Machine Learning Engineer                | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khansartz/)                                    |
+| MC012D5Y1823 | Netanel Danur Wendra                 | Machine Learning Engineer                | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/netaneld)                                    |
+| MC769D5Y2227 | 	Bustanul Khair Rahman             | Machine Learning Engineer             | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bustanulkhairrahman/)                                   |
 
-## 💻 FurniScan Team Jobdesk
+## 💻 Tanamind Team Jobdesk
 
 We divided task for every team, this is the detail
 
-- **Machine Learning:** This team focuses on developing machine learning model especially object detection to detect the furniture who user want to know.
-- **Mobile Android Development:** This team is responsible for creating an amazing design and user-friendly interface for the mobile app, ensuring a smooth and enjoyable user experience.
-- **Cloud Computing:** This team ensures a powerful backend with cloud infrastructure, providing secure, fast, and reliable data storage and processing. This enables real-time information retrieval and seamless app performance.
+- **Machine Learning Engineer:** This team focuses on developing machine learning model especially image classification to diagnose plant disease.
+- **Front-End dan Back-End Developer:** This team is responsible for creating an amazing design and user-friendly interface for the web app, ensuring a smooth and enjoyable user experience.
 
 ## 🤝 Get Involved
 
-Are you a furniture store owner looking to enhance your customer experience? Join us and integrate our app into your store today!
+Are you passionate about smart farming, hydroponics, or plant disease detection using technology? Join us in making Tanamind even better! Whether you're a developer, agriculture enthusiast, or researcher—your ideas and contributions are welcome.
+
+Let’s grow smarter, together. 🌱
 
 ## 💌 Contact
 
