@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.jpeg" alt="Furni Scan" width="300">
+  <img src="logo-tanamind.png" alt="Tanamind" width="300">
 </div>
 
 # Tanamind - Created by CC25-CF338 Capstone Project Coding Camp by DBS Foundation 2025
