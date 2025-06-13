@@ -34,6 +34,12 @@ We divided task for every team, this is the detail
 - **Machine Learning Engineer:** This team focuses on developing machine learning model especially image classification to diagnose plant disease.
 - **Front-End dan Back-End Developer:** This team is responsible for creating an amazing design and user-friendly interface for the web app, ensuring a smooth and enjoyable user experience.
 
+## 📖 Guidebook
+
+Need help getting started with Tanamind? Check out our guidebook to understand how to use the website, upload plant images, and interpret the results.
+
+👉 **[Click here to open the Tanamind Guidebook](https://www.canva.com/design/DAGp6x-eGy0/4FPgjN-icEo31ilSzfYfXQ/edit?utm_content=DAGp6x-eGy0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+
 ## 🤝 Get Involved
 
 Are you passionate about smart farming, hydroponics, or plant disease detection using technology? Join us in making Tanamind even better! Whether you're a developer, agriculture enthusiast, or researcher—your ideas and contributions are welcome.
